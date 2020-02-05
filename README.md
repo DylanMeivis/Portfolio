@@ -9,7 +9,7 @@
 
 ---
 
-[![Build Status](https://travis-ci.org/dylanmeivis/portfolio.svg?branch=master)](https://travis-ci.org/dylanmeivis/portfolio) [![GitHub release](https://img.shields.io/github/release/dylanmeivis/portfolio/all.svg)](https://github.com/dylanmeivis/portfolio/releases/latest) [![repo size](https://img.shields.io/github/repo-size/dylanmeivis/portfolio.svg)](https://github.com/dylanmeivis/portfolio/archive/master.zip) [![license](https://img.shields.io/github/license/dylanmeivis/portfolio.svg)](https://github.com/dylanmeivis/portfolio/blob/master/LICENSE)[![Website](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=website)](https://dylanmeivis.github.io/portfolio)
+[![Build Status](https://travis-ci.org/dylanmeivis/portfolio.svg?branch=master)](https://travis-ci.org/dylanmeivis/portfolio) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b2c9c6a5cf74db1a909d74744494420)](https://www.codacy.com/manual/dylandiamonds/Portfolio?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DylanMeivis/Portfolio&amp;utm_campaign=Badge_Grade) [![GitHub release](https://img.shields.io/github/release/dylanmeivis/portfolio/all.svg)](https://github.com/dylanmeivis/portfolio/releases/latest) [![repo size](https://img.shields.io/github/repo-size/dylanmeivis/portfolio.svg)](https://github.com/dylanmeivis/portfolio/archive/master.zip) [![license](https://img.shields.io/github/license/dylanmeivis/portfolio.svg)](https://github.com/dylanmeivis/portfolio/blob/master/LICENSE) [![Website](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=website)](https://dylanmeivis.github.io/portfolio)
 
 ---
 
