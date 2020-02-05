@@ -12,7 +12,7 @@ function registerValidSW(swUrl, config) {
     .then((registration) => {
       registration.onupdatefound = () => {
         const installingWorker = registration.installing;
-        if (installingWorker == null) {
+        if (installingWorker === null) {
           return;
         }
         installingWorker.onstatechange = () => {
@@ -52,7 +52,7 @@ function checkValidServiceWorker(swUrl, config) {
         response.status === 404 ||
         (contentType !== null && contentType.indexOf('javascript') === -1)
       ) {
-        navigator.serviceWorker.ready.then(registration => {
+        navigator.serviceWorker.ready.then((registration) => {
           registration.unregister().then(() => {
             window.location.reload();
           });
