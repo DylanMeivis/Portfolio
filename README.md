@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.dylanmeivis.como"><img src="https://raw.githubusercontent.com/DylanMeivis/Assets/master/gifs/IMG_2275.GIF" alt="dylanmeivis" width="200"></a>
+  <a href="https://www.dylanmeivis.com"><img src="https://raw.githubusercontent.com/DylanMeivis/Assets/master/gifs/IMG_2275.GIF" alt="dylanmeivis" width="200"></a>
   <br>
   <br>
   <p>
