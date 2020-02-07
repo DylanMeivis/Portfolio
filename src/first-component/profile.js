@@ -11,7 +11,7 @@ class Profile extends React.Component {
         return (
         <div>
             <h1>This is the portfolio of {this.state.name}</h1>
-            <button onClick={() => this.setState({name: 'Petertje'})}>Click me!</button>
+            <button onClick={() => this.setState({name: 'Dylando'})}>Click me!</button>
         </div>
         );
     }
