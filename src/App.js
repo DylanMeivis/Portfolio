@@ -2,6 +2,12 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Profile from '../src/first-component/profile';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
 
 function App() {
   return (
@@ -10,6 +16,14 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
           <Profile name='dylanmeivis'></Profile>
       </header>
+      <Router>
+        <h5>
+          <Link to='/about'>About</Link>
+        </h5>
+        <Switch>
+          
+        </Switch>
+      </Router>
     </div>
   );
 }
