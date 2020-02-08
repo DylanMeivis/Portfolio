@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Profile from '../src/first-component/profile';
+import About from '../src/About-component/about';
 import {
   BrowserRouter as Router,
   Switch,
@@ -21,7 +22,9 @@ function App() {
           <Link to='/about'>About</Link>
         </h5>
         <Switch>
-          
+          <Route path='/about'>
+            <About/>
+          </Route>
         </Switch>
       </Router>
     </div>
