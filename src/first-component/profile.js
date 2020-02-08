@@ -1,10 +1,4 @@
 import React from 'react';
-import {
-    BrowserRouter as Router,
-    Switch,
-    Route,
-    Link
-  } from "react-router-dom";
 
 class Profile extends React.Component {
     constructor(props) {
@@ -20,11 +14,6 @@ class Profile extends React.Component {
             <h3>Where you can find everything about me</h3>
             <i>Such italic</i>
             <button onClick={() => this.setState({name: 'Dylando'})}>Click me!</button>
-        <Router>
-            <h3>
-                <Link></Link>
-            </h3>
-        </Router>
         </div>
         );
     }
