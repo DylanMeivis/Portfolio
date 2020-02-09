@@ -1,13 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import About from '../src/About-component/about';
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Link
-} from 'react-router-dom';
 
 function App() {
   return (
