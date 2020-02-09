@@ -15,16 +15,6 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
       </header>
-      <Router>
-        <h5>
-          <Link to='/about'>About</Link>
-        </h5>
-        <Switch>
-          <Route path='/about'>
-            <About/>
-          </Route>
-        </Switch>
-      </Router>
     </div>
   );
 }
