@@ -4,6 +4,6 @@ import App from './App';
 
 test('renders learn react link', () => {
   const { getByText } = render(<App />);
-  const linkElement = getByText(/This is the portfolio of/i);
+  const linkElement = getByText(/Hello and welcome/i);
   expect(linkElement).toBeInTheDocument();
 });
