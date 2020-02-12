@@ -16,7 +16,7 @@ function App() {
             </div>
         </div>
         <div className="InformationHeader">
-            <h3>Hello 123!</h3>
+            <h3>Dylan Meivis</h3>
         </div>
     </div>
   );
