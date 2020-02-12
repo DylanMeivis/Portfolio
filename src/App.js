@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -8,7 +7,7 @@ function App() {
         <div className="IntroductionImage">
             <h1>Hello 123</h1>
             <div className="theme-switch-wrapper">
-                <label className="theme-switch" for="checkbox">
+                <label className="theme-switch" htmlFor="checkbox">
                     <input type="checkbox" id="checkbox" />
                     <div className="slider round"></div>
               </label>
