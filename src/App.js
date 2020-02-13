@@ -13,6 +13,7 @@ function App() {
         </div>
         <div className="InformationHeader">
             <h3>Dylan Meivis</h3>
+            <h3>Portfolio</h3>
         </div>
     </div>
   );
