@@ -14,6 +14,7 @@ function App() {
         <div className="InformationHeader">
             <h3>Dylan Meivis</h3>
             <h3>Portfolio</h3>
+            <h3>Developer</h3>
         </div>
     </div>
   );
