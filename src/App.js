@@ -10,6 +10,7 @@ function App() {
         <div className="IntroductionImage">
             <h1>Hello 123</h1>
             <button onClick={handleThemeChange}>Enable Dark Mode!</button>
+            <h3>Dork mode</h3>
         </div>
         <div className="InformationHeader">
             <h3>Dylan Meivis</h3>
