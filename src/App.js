@@ -12,6 +12,7 @@ function App() {
             <button onClick={handleThemeChange}>Enable Dark Mode!</button>
             <h3>Dork mode</h3>
             <h3>Such Dork</h3>
+            <h1>Does this fit?</h1>
         </div>
         <div className="InformationHeader">
             <h3>Dylan Meivis</h3>
