@@ -42,8 +42,9 @@ html,body {
 }
 
 .InformationHeader {
-background-color: var(--primary-color);
+    background-color: var(--primary-color);
 }
+
 .InformationHeader h3 {
     color: var(--font-color);
     font-size: 2vw;
