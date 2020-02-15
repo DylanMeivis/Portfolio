@@ -12,4 +12,6 @@ test('renders text on app page', () => {
   expect(extra).tBeInTheDocument();
   const andthis = getByText(/And this?/i);
   expect(andthis).toBeInTheDocument();
+  const Developer = getByText(/Developer/i);
+  expect(Developer).toBeInTheDocument();
 });
