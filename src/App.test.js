@@ -8,4 +8,6 @@ test('renders text on app page', () => {
   expect(linkElement).toBeInTheDocument();
   const paragraph = getByText(/Enable Dark Mode!/i);
   expect(paragraph).toBeInTheDocument();
+  const extra = getByText(/Does this fit?/i);
+  expect(extra).tBeInTheDocument();
 });
