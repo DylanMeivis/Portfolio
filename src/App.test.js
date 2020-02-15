@@ -10,4 +10,6 @@ test('renders text on app page', () => {
   expect(paragraph).toBeInTheDocument();
   const extra = getByText(/Does this fit?/i);
   expect(extra).tBeInTheDocument();
+  const andthis = getByText(/And this?/i);
+  expect(andthis).toBeInTheDocument();
 });
