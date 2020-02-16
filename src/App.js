@@ -9,6 +9,7 @@ function App() {
     <div className="mainhero">
         <div className="IntroductionImage">
             <h1>Hello 123</h1>
+            <h1>Is it me your looking for?</h1>
             <button onClick={handleThemeChange}>Enable Dark Mode!</button>
             <h3>Dork mode</h3>
             <h3>Such Dork</h3>
