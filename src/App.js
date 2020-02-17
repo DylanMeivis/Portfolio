@@ -12,7 +12,7 @@ function App() {
             <h1>Is it me your looking for?</h1>
             <button onClick={handleThemeChange}>Enable Dark Mode!</button>
             <h3>Dork mode1</h3>
-            <h3>Such Dork</h3>
+            <h3>Such Dork2</h3>
             <h1>Does this fit?</h1>
         </div>
         <div className="InformationHeader">
