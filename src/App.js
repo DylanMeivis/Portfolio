@@ -16,7 +16,7 @@ function App() {
             <h1>Does this fit?</h1>
         </div>
         <div className="InformationHeader">
-            <h3>Dylan Meivis</h3>
+            <h3>Dylan Meivis </h3>
             <h3>Portfolio</h3>
             <h3>Developer</h3>
             <h3>And this?</h3>
