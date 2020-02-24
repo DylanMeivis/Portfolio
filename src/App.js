@@ -37,6 +37,7 @@ function App() {
             <button>Okay bye now</button>
             <h3>Yup</h3>
             <h3>Nope</h3>
+            <h3>Yup</h3>
         </div>
     </div>
   );
