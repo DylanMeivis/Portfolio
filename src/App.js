@@ -22,6 +22,7 @@ function App() {
             <h1>Nope</h1>
             <h1>nope</h1>
             <h1>YESSS</h1>
+            <h1>JUS</h1>
         </div>
         <div className="InformationHeader">
             <h3>Dylan Meivis </h3>
