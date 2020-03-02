@@ -24,8 +24,6 @@ function App() {
             <h1>YESSS</h1>
             <h1>JUS</h1>
             <h1>Nups</h1>
-            <h1>Jups</h1>
-            <h1>Nups</h1>
             <h1>Jupppss</h1>
             <h1>1</h1>
             <h1>2</h1>
