@@ -42,8 +42,6 @@ function App() {
             <h3>2</h3>
             <h3>3</h3>
             <h3>4</h3>
-            <h3>5</h3>
-            <h3>6</h3>
             <h3>7</h3>
             <button>Okay bye now</button>
             <h3>Yup</h3>
