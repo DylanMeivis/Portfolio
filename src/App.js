@@ -26,7 +26,6 @@ function App() {
             <h1>Nups</h1>
             <h1>Jupppss</h1>
             <h1>1</h1>
-            <h1>2</h1>
         </div>
         <div className="InformationHeader">
             <h3>Dylan Meivis </h3>
