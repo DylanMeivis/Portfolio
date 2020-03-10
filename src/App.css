@@ -13,8 +13,3 @@
     --secondary-font-color: #abb9cf;
     --bg-color: #242933;
 }
-
-html,body {
-    height: 100vh;
-    margin: 0;
-}
