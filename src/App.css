@@ -18,36 +18,3 @@ html,body {
     height: 100vh;
     margin: 0;
 }
-
-.mainhero { 
-    height: 100vh;
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: 0.65fr 0.35fr;
-    grid-template-areas: 
-            "IntroductionImage"
-            "InformationHeader";
-}
-
-.IntroductionImage {
-    background-color: var(--bg-color);
-}
-
-.IntroductionImage h1 {
-    color: var(--font-color);
-    font-size: 3vw;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 600;
-    margin-left: 2vw;
-}
-
-.InformationHeader {
-    background-color: var(--primary-color);
-}
-
-.InformationHeader h3 {
-    color: var(--font-color);
-    font-size: 2vw;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 400;
-}
