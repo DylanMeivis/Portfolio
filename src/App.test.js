@@ -4,14 +4,6 @@ import App from './App';
 
 test('renders text on app page', () => {
   const { getByText } = render(<App />);
-  const linkElement = getByText(/Hello 123/i);
+  const linkElement = getByText(/Dylan Meivis/i);
   expect(linkElement).toBeInTheDocument();
-  const paragraph = getByText(/Enable Dark Mode!/i);
-  expect(paragraph).toBeInTheDocument();
-  const extra = getByText(/Does this fit?/i);
-  expect(extra).toBeInTheDocument();
-  const andthis = getByText(/And this?/i);
-  expect(andthis).toBeInTheDocument();
-  const Developer = getByText(/Developer/i);
-  expect(Developer).toBeInTheDocument();
 });
