@@ -3,8 +3,13 @@ import './App.css';
 
 function App() {
   return (
-    <div className="mainhero container-fluid p-0">
-        <h1 className="text-center">Dylan Meivis</h1>
+    <div className="container">
+      <div className="row">
+        <div className="col-12 text-center">
+          <h1>Dylan Meivis</h1>
+          <h4>🥑 Full-Stack Developer <a href="https://www.accepteasy.com">@AcceptEasy</a></h4>
+        </div>
+      </div>
     </div>
   );
 }
