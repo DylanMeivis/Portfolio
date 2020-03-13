@@ -26,7 +26,7 @@ function App() {
       <div className='container'>
         <div className='row pt-2'>
           <div className='col-12 text-center'>
-            <img src='http://placekitten.com/200/300' className='rounded' alt='profilePicture'></img>
+            <img src='https://pbs.twimg.com/profile_images/1109069763957919744/tVZQXzIo_400x400.png' className='rounded' alt='profilePicture'></img>
           </div>
           <div className='col-12 text-center'>
             <h1>Dylan Meivis</h1>
