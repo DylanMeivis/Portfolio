@@ -12,7 +12,7 @@ function App() {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a className="nav-link" href="#">About me</a>
+              <a className="nav-link">About me</a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#">Projects</a>
