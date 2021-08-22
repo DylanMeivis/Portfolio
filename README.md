@@ -1,23 +1,29 @@
-<div align="center">
-  <a href="https://www.dylanmeivis.com"><img src="https://raw.githubusercontent.com/DylanMeivis/Assets/master/gifs/IMG_2275.GIF" alt="dylanmeivis" width="200"></a>
-  <br>
-  <br>
-  <p>
-    <b>Welcome to my Portfolio</b>
-  </p>
-  <p>
-     <i>Where you can find everything about me, and what I have created in the last years</i>
-  </p>
-  <p>
+# Next.js + Tailwind CSS Example
 
-  [![Travis Build Status](https://img.shields.io/travis/com/dylanmeivis/portfolio?logo=Travis)](https://travis-ci.com/dylanmeivis/portfolio) [![GitHub release](https://img.shields.io/github/release/dylanmeivis/portfolio/all?logo=GitHub)](https://github.com/dylanmeivis/portfolio/releases/latest) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b2c9c6a5cf74db1a909d74744494420)](https://www.codacy.com/manual/dylandiamonds/Portfolio?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DylanMeivis/Portfolio&amp;utm_campaign=Badge_Grade) [![Website](https://img.shields.io/website?url=https://dylanmeivis.github.io/portfolio/&logo=google-chrome)](https://dylanmeivis.github.io/portfolio) [![repo size](https://img.shields.io/github/repo-size/dylanmeivis/portfolio.svg)](https://github.com/dylanmeivis/portfolio/archive/master.zip) [![license](https://img.shields.io/github/license/dylanmeivis/portfolio.svg)](https://github.com/dylanmeivis/portfolio/blob/master/LICENSE)
+This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
-  </p>
-  <p>
-    <sub>Crafted with 🔮 by
-      <a href="https://github.com/dylanmeivis">dylanmeivis</a>
-    </sub>
-  </p>
-</div>
+It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
 
----
+## Preview
+
+Preview the example live on [StackBlitz](http://stackblitz.com/):
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+
+## Deploy your own
+
+Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+
+## How to use
+
+Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+
+```bash
+npx create-next-app --example with-tailwindcss with-tailwindcss-app
+# or
+yarn create next-app --example with-tailwindcss with-tailwindcss-app
+```
+
+Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
